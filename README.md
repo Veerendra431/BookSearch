@@ -17,12 +17,11 @@ The app is styled with **Tailwind CSS** for a clean and responsive UI.
 
  📂 Project Setup
 
-1. Clone the repository
-git clone https://github.com/your-username/book-finder.git
-cd book-finder
-Run the command in terminal-- npm install
-Run the command in terminal-- npm run dev
-AFTER RUNNING THE COMMANDS
+--> Clone the repository
+-->git clone https://github.com/your-username/book-finder.git
+-->Run the command in terminal-- npm install
+-->Run the command in terminal-- npm run dev
+---AFTER RUNNING THE COMMANDS
 → Local:http://localhost:5173/
 →Network:use --host to expose
 → press h to show help
